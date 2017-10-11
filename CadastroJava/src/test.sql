@@ -59,7 +59,7 @@ CREATE TABLE `produto` (
 --
 
 INSERT INTO `produto` (`idProduto`, `descricao`, `qtd`, `valor`, `idCategoria`) VALUES
-(7, 'Boneco do Ben 10', 30, 150, 1),
+(7, 'Boneco do Max Steel', 30, 150, 1),
 (8, 'Boneca Monster High', 55, 95, 1),
 (9, 'Camisa Polo', 25, 60, 2),
 (10, 'Camisa Dudalina', 10, 450, 2),
