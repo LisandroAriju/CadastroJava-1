@@ -10,6 +10,10 @@ package model.bean;
  * @author Windows
  */
 public class Produto {
+
+    public static void setidProduto(int aInt) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     private int idProduto;
     private String descricao;
     private int qtd;
